@@ -1,0 +1,19 @@
+/*This is just a small section of CSS to get started.  The idea is to set a basic font size for the entire document so rem can be used throughout. Also good idea to have the font stack defined.  */
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+}
+
+section {
+    border: solid 2px #666;
+    margin-top: 3em:
+}
+
+h1 {
+    font-size: 4.2rem;
+    padding-top: 5rem;
+}
